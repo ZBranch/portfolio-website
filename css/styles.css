@@ -217,7 +217,7 @@ margin: auto;
   animation: 4s color-change infinite alternate linear;
 }
 
-@keyframes cloud-move {
+@keyframes cloud-move { 
   from {
     transform: translate(0, 50px);
   }
